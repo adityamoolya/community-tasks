@@ -1,0 +1,6 @@
+frontend/
+env12/
+backend/__pycache__/
+backend/.env
+fronend_final/node_modules/
+/backend/local_test.db
